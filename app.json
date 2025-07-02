@@ -1,6 +1,6 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
+  "name": "BEN-MD",
+  "description": "BEN-MD is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
     "node",
@@ -25,12 +25,12 @@
     
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined. You can leave it blank",
-      "value": "This is Keith personal assistant kindly leave a message",
+      "value": "This is BEN personal assistant kindly leave a message",
       "required": false
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "BEN",
       "required": false
     },
     "TIMEZONE": {
@@ -40,7 +40,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "SESSION_ID": {
@@ -50,7 +50,7 @@
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "BEN",
       "required": false
     },
     "URL": {
@@ -60,7 +60,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "254727374449",
       "required": false
     }
   },
